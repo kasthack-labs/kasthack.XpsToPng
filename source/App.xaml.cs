@@ -1,5 +1,5 @@
 ﻿using System.Windows;
 
-namespace WpfApplication1 {
+namespace XpsToPng {
     public partial class App : Application {}
 }
